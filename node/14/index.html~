@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Virtual Imaging Platform (VIP) - publications</title>
+      <link rel="StyleSheet" href="../../doc_main.css" type="text/css" />
+    </head>
+    <body>
+
+<h1>General</h1>
+
+<!-- journals --> 
+<ul>
+<li> <b><font color="red">[ TMI 2013 ]</font></b> T. Glatard, C. Lartizien, B. Gibaud, R. Ferreira da Silva, G. Forestier, F. Cervenansky, M. Alessandrini, H. Benoit-Cattin, O. Bernard, S. Camarasu-Pop, N. Cerezo, P. Clarysse, A. Gaignard, P. Hugonnard, H. Liebgott, S. Marache, A. Marion, J. Montagnat, J. Tabary, and D. Friboulet, <a href="http://dx.doi.org/10.1109/TMI.2012.2220154">A Virtual Imaging Platform for multi-modality medical image simulation</a>, IEEE Transactions on Medical Imaging, vol. 32, no. 1, pp. 110-118, 2013 
+
+<hr/>
+<!-- conferences and workshops -->
+
+<li> <b>[ ISBI 2012-1 ]</b> T. Glatard, A. Marion, H. Benoit-Cattin, S. Camarasu-Pop, P. Clarysse, R. Ferreira da Silva, G. Forestier, B. Gibaud, C. Lartizien, H. Liebgott, K. Moulin, and D. Friboulet <a href="http://dx.doi.org/10.1109/ISBI.2012.6235493">Multi-modality image simulation with the virtual imaging platform: Illustration on cardiac MRI and echography</a>, IEEE International Symposium on Biomedical Imaging (ISBI), Barcelona, Spain, pp 98-101, 2012
+</ul>
+
+<h1>Semantic modeling and tools</h1>
+
+<!-- journals --> 
+
+<ul>
+<li> <b><font color="red">[ JGC 2013 ]</font></b> (under review) N. Cerezo, J. Montagnat, M. Blay-Fornarino. Computer-assisted Scientific Workflow Design, submitted to Journal of Grid Computing (special issue on workflows, 2013).
+
+<hr/>
+
+<!-- conferences and workshops -->
+
+<li> <b>[ HISB 2012 ]</b> B. Gibaud, G. Forestier, H. Benoit-Cattin, F. Cervenansky, P. Clarysse, D. Friboulet, A. Gaignard, P. Hugonnard, C. Lartizien, H. Liebgott, J. Montagnat, J. Tabary, and T. Glatard, <a href="http://dx.doi.org/10.1109/HISB.2012.35">OntoVIP: an ontology for the annotation of object models used for medical image simulation</a>, IEEE International Conference on Healthcare Informatics, Imaging and Systems Biology (HISB), La Jolla, California, USA, pp. 110-119, 2012.
+<hr/>
+
+<li> <b>[ DCICTIA-MICCAI 2012 ]</b> A. Gaignard, J. Montagnat, C. Faron-Zucker, O. Corby, <a href="http://hal.inria.fr/hal-00746765/">Semantic Federation of Distributed Neurodata</a>. MICCAI Workshop on Data- and Compute-Intensive Clinical and Translational Imaging Applications (DCICTIA-MICCAI 2012), pp 41-50, Nice, France, Oct. 2012.
+<hr/>
+
+<li> <b>[ WORKS 2011 ]</b> N. Cerezo, J. Montagnat, <a href="http://dx.doi.org/10.1145/2110497.2110499">Scientific Workflows Reuse through Conceptual Workflows</a>, 6th Workshop on Workflows in Support of Large-Scale Science (WORKS), associated to SuperComputing, Seattle (USA), November 2011.
+<hr/>
+
+<li> <b>[ IEEE CBMS 2011 ]</b> G. Forestier, A. Marion, H. Benoit-Cattin, P. Clarysse, D. Friboulet, T. Glatard, P. Hugonnard, C. Lartizien, H. Liebgott, J. Tabary, B. Gibaud, <a href="http://dx.doi.org/10.1109/CBMS.2011.5999167">Sharing object models for multi-modality medical image simulation: a semantic approach</a>, Computer-Based Medical Systems (CBMS), 2011 24th International Symposium on pp.1-6, 27-30 June 2011
+<hr/>
+
+<li> <b>[ KEOD 2011 ]</b> A. Gaignard, J. Montagnat, B. Wali, B. Gibaud. <a href="http://hal.archives-ouvertes.fr/hal-00677829">Characterizing semantic service parameters with Role concepts to infer domain-specific knowledge at runtime</a>. International Conference on Knowledge Engineering and Ontology Development (KEOD'11), Paris, France, Oct. 2011.
+</ul>
+
+<h1>Computing and storage</h1>
+
+<!-- journals --> 
+<ul>
+<li><b><font color="red">[ FGCS 2013 ]</font></b> R. Ferreira da Silva, T. Glatard, and F. Desprez, "Self-healing of workflow activity incidents on distributed computing infrastructures", Future Generation Computer Systems, to appear, 2013.
+
+<hr/>
+<!-- conferences and workshops -->
+
+<li><b>[ CoreGrid 2012 ]</b> R. Ferreira da Silva, T. Glatard, <a href="http://dx.doi.org/10.1007/978-3-642-36949-0_10">A science-gateway workload archive to study pilot jobs, user activity, bag of tasks, task sub-steps, and workflow executions</a>, CoreGRID/ERCIM Workshop on Grids, Clouds and P2P Computing - CGWS 2012, Rhodes Island, Greece, Springer Berlin Heidelberg, pp. 79-88.
+<hr/>
+<li><b>[ CCGrid 2012 ]</b> R. Ferreira da Silva, T. Glatard, and F. Desprez, <a href="http://dx.doi.org/10.1109/CCGrid.2012.24">Self-healing of operational workflow incidents on distributed computing infrastructures</a>, 12th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing - CCGrid 2012, Ottawa, Canada, pp. 318-325.
+<hr/>
+<li><b>[ IEEE CBMS 2011a ]</b>, A. Marion, G. Forestier, H. Liebgott, C. Lartizien, H. Benoit-Cattin, S. Camarasu-Pop, T. Glatard, R. Ferreira da Silva, P. Clarysse, S. Valette, B. Gibaud, P. Hugonnard, J. Tabary, D. Friboulet, <a href="http://dx.doi.org/10.1109/CBMS.2011.5999141">Multi-modality image simulation of biological models within VIP</a>, Computer-Based Medical Systems (CBMS), 2011 24th International Symposium on , pp.1-6, 27-30 June 2011.
+<hr/>
+<li><b>[ HealthGrid 2011 ]</b>, Multi-platform workflow execution for medical simulation,   Rafael Ferreira da Silva, Sorina Camarasu-Pop, Baptiste Grenier, Vanessa Hamar, David Manset, Johan Montagnat, Jérôme Revillard, Javier Rojas Balderrama, Andrei Tsaregorodtsev, Tristan Glatard, proceedings of the 9th HealthGrid conference, 2011.
+<hr/>
+<li><b>[ IEEE ICWS 2011 ]</b>, J. Rojas Balderrama, J. Montagnat, D. Lingrand, <a href="http://dx.doi.org/10.1109/ICWS.2010.59">jGASW: A Service-Oriented Framework Supporting High Throughput Computing and Non-functional Concerns</a>,  Proceedings of the IEEE International Conference on Web Services, pp. 691-694, 2010.
+</ul>
+<h1>Applications</h1>
+
+<ul>
+<li><b>[ SPIE 2013 ]</b> Alessandro Crimi, Olivier Commowick, Jean-Christoph Ferre, Adil Maarouf, Gilles Edan, Christian Barillot, "Classification of Multiple sclerosis lesions evolution in patients with clinically isolated syndrome ." Alessandro Crimi, Olivier Commowick, Jean-Christoph Ferre, Adil Maarouf, Gilles Edan, Christian Barillot. In Proceedings of the SPIE: Medical Imaging 2013, Orlando, Florida, USA, 2013.
+<hr/>
+<li><b>[ ISBI 2013 ]</b></a> Alessandro Crimi, Olivier Commowick, Jean-Christoph Ferre, Adil Maarouf, Gilles Edan, Christian Barillot, "Semi automatic classification of Multiple sclerosis lesion pattern in patients with clinically isolated syndrome." International symposium on biomedical imaging, San-Francisco, California, USA, 2013
+<hr/>
+<li><b>[ Acoustics 2012 ]</b> G. Xinxin, D. Friboulet, H. Liebgott, "Back-progagation based beamformer design for transverse oscillations in echocardiography", Proc. Acoustics 2012, Nantes, France, Avril 2012
+<hr/>
+<li><b>[ ISBI 2012 ]</b> G. Xinxin, D. Friboulet, H. Liebgott, <a href="http://dx.doi.org/10.1109/ISBI.2012.6235751">Transverse oscillations beamformer design for sector scan using back-propagation</a>, Proc. IEEE International Symposium on Biomedical Imaging (ISBI), Barcelona, Spain, May 2012
+<hr/>
+<li><b>[ MBIA 2012 ]</b> Fang Cao, Olivier Commowick, Elise Bannier, Jean-Christophe Ferr&eacute;, Gilles Edan, Christian Barillot, P
+.-T. Yap et al., <a href="http://dx.doi.org/10.1007/978-3-642-33530-3_18">MRI Estimation of T1 Relaxation Time Using a Constrained Optimization Algorithm</a>
+ MBIA 2012, Oct 2012, Nice, France. pp. 203-214
+
+
+</ul>
+<hr/>
+<center>
+  <a href="mailto:vip@creatis.insa-lyon.fr">vip@creatis.insa-lyon.fr</a><br/>
+  VIP was funded
+  by <a href="http://www.agence-nationale-recherche.fr">ANR</a> under
+  grant ANR-09-COSI-03.
+</center>
+
+</body>
+</html>
